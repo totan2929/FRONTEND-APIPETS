@@ -1,0 +1,29 @@
+body {
+  background-image: url(/img/dog.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center center;
+  background-size: cover;
+  color: white;
+}
+table thead {
+  background-color: #302b63;
+  color: white;
+}
+h1 {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+  margin-top: 40px;
+}
+.a {
+  margin-top: 40px;
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 40px;
+  margin-top: -10px;
+}
